@@ -1,0 +1,13 @@
+{
+  "name": "svg-color-change",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mhayk/svg-color-change.git",
+  "author": "Mhayk Whandson <hi@mhayk.com>",
+  "license": "MIT",
+  "dependencies": {
+    "simple-svg-tools": "^1.1.12",
+    "svg-parser": "^2.0.3",
+    "svgson": "^4.0.0"
+  }
+}
